@@ -1,5 +1,5 @@
 ### Hello world 🫧
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2125r66tulxq4d5di3bvb2mda)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4amu02xse8ZuvDSBWDgriu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!--
 **ku-storage/ku-storage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
