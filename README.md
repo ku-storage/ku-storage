@@ -1,5 +1,5 @@
 ### Hello world 🫧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2125r66tulxq4d5di3bvb2mda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://https://spotify-github-profile.kittinanx.com/api/view?uid=2125r66tulxq4d5di3bvb2mda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **ku-storage/ku-storage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
